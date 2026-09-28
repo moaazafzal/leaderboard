@@ -1,0 +1,23 @@
+{
+    "name": "AquaGames.League.Firebase",
+    "rootNamespace": "AquaGames.League.FirebaseBackend",
+    "references": [
+        "AquaGames.League"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Firebase.App.dll",
+        "Firebase.Auth.dll",
+        "Firebase.Firestore.dll",
+        "Firebase.TaskExtension.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "LEAGUE_FIREBASE"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
