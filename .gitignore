@@ -1,2 +1,7 @@
 .DS_Store
 *.swp
+# UPM folders ending in "~" (docs, samples) must be tracked even if a global *~ rule ignores them
+!Documentation~/
+!Documentation~/**
+!Samples~/
+!Samples~/**

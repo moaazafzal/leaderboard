@@ -1,6 +1,6 @@
 {
   "name": "com.aquagames.league",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Aqua League (Weekly Leaderboard)",
   "description": "Duolingo-style weekly league leaderboard for any Unity game. Groups of 30, 10 leagues, promotion and demotion zones, live standings. Runs fully offline with simulated players, online with real players on Firebase Firestore, or Hybrid (real players + simulated fill-ins). Portrait and landscape UI, fully themeable to match your game.",
   "unity": "2021.3",

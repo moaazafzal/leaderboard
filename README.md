@@ -20,10 +20,10 @@ Unity **2021.3+** (built on Unity 6), uGUI + TextMeshPro (with *TMP Essential Re
 
 **Package Manager → + → Add package from git URL:**
 ```
-https://github.com/moaazafzal/leaderboard.git#v1.0.0
+https://github.com/moaazafzal/leaderboard.git#v1.0.1
 ```
 Private repo: the machine needs GitHub access for git (`gh auth setup-git`), or use
-`git@github.com:moaazafzal/leaderboard.git#v1.0.0`. A `.unitypackage` is also attached to each
+`git@github.com:moaazafzal/leaderboard.git#v1.0.1`. A `.unitypackage` is also attached to each
 [release](../../releases).
 
 ## Use

@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.1] - 2026-09-29
+- Package now ships `Documentation~` (full guide + screenshots) and `Samples~/Demo` (LeagueDemo). They were missing from 1.0.0 because a global `*~` gitignore rule excluded them; `.gitignore` now re-includes them.
+- No code changes.
+
 ## [1.0.0] - 2026-09-28
 First release.
 - Weekly league: 10 leagues (Bronze → Diamond), groups of 30, top 7 promote, bottom 5 demote, week starts Monday 00:00 UTC (all configurable).
